@@ -58,10 +58,10 @@
 
 #<localhost>
 127.0.0.1 	localhost
-127.0.0.1 	localhost.localdomain
-255.255.255.255	broadcasthost
-::1		localhost
-127.0.0.1 	local
+#127.0.0.1 	localhost.localdomain
+#255.255.255.255	broadcasthost
+#::1		localhost
+#127.0.0.1 	local
 #</localhost>
 
 #<shock-sites>
